@@ -1,6 +1,6 @@
 # Task Tracker Web Application
 
-This project is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to manage their tasks by adding, marking as completed, and removing them from the list.
+This project is a simple Task Tracker List web application built using HTML, CSS, and JavaScript. It allows users to manage their tasks by adding, marking as completed, and removing them from the list.
 
 ## Features
 
